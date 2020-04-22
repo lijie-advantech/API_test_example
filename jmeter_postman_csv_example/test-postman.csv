@@ -1,0 +1,6 @@
+path,data,policy_name,policy
+path1,"{""key1"":""value1"",""key2"":""value2""}",policy1,"path \""secret/foo\"" {}"
+path2,"{""key1"":""value1"",""key2"":""value3""}",policy2,"path \""secret/foo\"" {}"
+path3,"{""key1"":""value1"",""key2"":""value4""}",policy3,"path \""secret/foo\"" {}"
+path4,"{""key1"":""value1"",""key2"":""value5""}",policy4,"path \""secret/foo\"" {}"
+path5,"{""key1"":""value1"",""key2"":""value6""}",policy5,"path \""secret/foo\"" {}"
